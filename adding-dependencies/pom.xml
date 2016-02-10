@@ -4,8 +4,8 @@
   
   <!-- GAV -->
   <groupId>com.trainologic.training.maven</groupId>
-  <artifactId>project-structure</artifactId>
-  <version>1.0</version>
+  <artifactId>adding-dependencies</artifactId>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <properties>
